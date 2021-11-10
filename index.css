@@ -1,0 +1,22 @@
+.container{
+   background-color: aquamarine;
+   text-align: center;
+   border-radius: 25px;
+}
+.pad{
+    width : 100px;
+    height: 100px;
+    border-radius: 15px;
+    background: url(synthetic.jpg);
+    text-align: center;
+    align-items: center;
+}
+.padonaction {
+    background: url(synthetic2.jpg)
+  }
+body{
+    background-color: red;
+}
+audio{
+    opacity: 0
+}
